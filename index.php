@@ -11,10 +11,10 @@
         <div class= "jumbotron">
             <div class="container">
                 <div class="row page-header align-center">
-                    <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
                         <h2>Witaj, chcesz przeliczyc jednostki? Dobrze trafiłeś !</h2>
                     </div>
-                    <div class="col-lg-offset-2 col-md-offset-2 col-xs-12 col-sm-12 col-md-8 col-lg-8 align-center">
+                    <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
                         <form action="index.php" method="GET">
                             <button type="submit" name="name" value="area" class="btn btn-success">Powierzchnia</button>
                             <button type="submit" name="name" value="length" class="btn btn-success">Długość</button>

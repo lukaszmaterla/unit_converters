@@ -96,7 +96,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <div class="container">
     <div class="row page-header align-center">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <h3>przeliczy ilośc posiadanych produktów</h3>
+            <h3>Przelicz ilość posiadanych produktów</h3>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <form action="" method="POST">

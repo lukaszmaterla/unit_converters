@@ -50,8 +50,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 <div class="container">
-    <div class="row page-header align-center">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 align-center">
+    <div class="row page-header text-center">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
             <h3>Jednostki temperatury!</h3>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -68,7 +68,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <option value="c">Skala Celcjusza</option>
                             <option value="f">Skala Farhrenheita</option>
                             <option value="k">Skala Kelvina</option>
-                        </select>
+                        </select><br>
                     </div>
                     <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                         <button type="submit" class="btn btn-success">Przelicz</button>
